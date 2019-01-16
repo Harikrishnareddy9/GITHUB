@@ -1,0 +1,1 @@
+Hi this my ination text document, Moving M1 document form git to git hub (ie from local repository to central repository "git hub").
